@@ -1,4 +1,15 @@
 # Time-Series-Forecasting-Datasets
+
+From books
+Galit Sumeli
+https://www.forecastingbook.com/resources/data-and-code
+
+Hynndman Book
+https://github.com/rakshitha123/TSForecasting
+
+Multivariate time series book
+https://github.com/google/vsf-time-series
+
 Time Series Forecasting Datasets
 0, 1	https://github.com/chennnnnyize/Renewables_Scenario_Gen_GAN/ (accessed on 1 February 2023)
 2	https://archive.ics.uci.edu/ml/datasets/Beijing+PM2.5+Data (accessed on 1 February 2023)
